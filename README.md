@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! I am a student at Kherson Polytechnic Professional College, which is part of the State University "Odesa Polytechnic".\n
-I’m currently learning Java and want to become a Java back-end developer.\n
-How to reach me: tukalovjeka@gmail.com
+Hello! I am a student at Kherson Polytechnic Professional College, which is part of the State University "Odesa Polytechnic".  
+I’m currently learning Java and want to become a Java back-end developer.  
+How to reach me: tukalovjeka@gmail.com  
